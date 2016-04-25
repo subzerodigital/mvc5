@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Description": "some descrption",
+    "Price": 10.25,
+    "ProductCode": "NBSZ1SDFD87SDFDS98",
+    "ProductId": 123,
+    "ProductName": "Your first product",
+    "ReleaseDate": "2009-11-03"
+  },
+  {
+    "Description": "some descrption",
+    "Price": 10.253,
+    "ProductCode": "NBSZ1SDFD87SDFDS98",
+    "ProductId": 124,
+    "ProductName": "Your second product",
+    "ReleaseDate": "2006-11-03"
+  }
+]
